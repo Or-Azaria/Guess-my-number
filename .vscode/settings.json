@@ -1,0 +1,13 @@
+{
+    "liveServer.settings.port": 5502,
+    "cSpell.words": [
+        "greenyellow",
+        "Highscore",
+        "nana"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#521C15",
+        "titleBar.activeBackground": "#72271E",
+        "titleBar.activeForeground": "#FDF9F8"
+    }
+}
